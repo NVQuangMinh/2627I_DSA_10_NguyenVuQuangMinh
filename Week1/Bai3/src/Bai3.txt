@@ -1,0 +1,10 @@
+(0, 4): cùng cây
+(2, 3): cùng cây
+(4, 0): cùng cây
+(4, 5): cùng cây
+(5, 0): cùng cây
+(5, 7): cùng cây
+(6, 4): cùng cây
+(8, 9): cùng cây
+
+không cặp nào là tham số của lệnh union(p,q) gần nhất

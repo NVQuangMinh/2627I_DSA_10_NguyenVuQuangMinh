@@ -1,0 +1,4 @@
+a) cấu trúc dữ liệu thu được có 1 thành phần liên thông
+b) số lần cập nhật mảng n(n-1)/2
+c) số lần truy cập mảng o(n)
+d) thao tác find thực hiện 1 lần truy cập mảng

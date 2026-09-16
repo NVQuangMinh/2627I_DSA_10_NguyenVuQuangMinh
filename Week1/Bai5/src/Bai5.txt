@@ -1,0 +1,1 @@
+Không thể là biểu diễn parent-link của một cấu trúc dự liệu weighted quick union
