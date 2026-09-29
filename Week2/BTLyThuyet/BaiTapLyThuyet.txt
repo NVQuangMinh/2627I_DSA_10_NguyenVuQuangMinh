@@ -1,0 +1,83 @@
+Bài 1:
+1.
+for (int i = 10; i < n + 5; i += 2)
+    op();
+Số lần hàm op() được gọi: ~n/2
+Bậc tăng trưởng: θ(n)
+
+2.
+for (int i = 1; i < n * n * n; i *= 2)
+    op();
+Số lần hàm op() được gọi: ~3log₂(n)
+Bậc tăng trưởng: θ(log n)
+
+3.
+for (int i = 0; i < n; i++)
+    for (int j = 0; j < 100; j++)
+        op();
+Số lần hàm op() được gọi: ~100n
+Bậc tăng trưởng: θ(n)
+
+4.
+for (int i = 0; i * i < n; i++)
+    for (int j = 1; j < n; j *= 3)
+        op();
+Số lần hàm op() được gọi: ~√(n)log₃(n)
+Bậc tăng trưởng: θ(√(n)log(n))
+
+5.
+for (int i = 0; i < n; i++)
+    for (int j = 1; j < n; j *= 2)
+        op();
+Số lần hàm op() được gọi: ~nlog₂(n)
+Bậc tăng trưởng: θ(nlog(n))
+
+6.
+for (int i = 0; i < n; i++)
+    for (int j = 0; j < 100; j++)
+        for (int k = 0; k < n; k++)
+            for (int l = k; l < n; l++)
+                op();
+Số lần hàm op() được gọi: ~50n³
+Bậc tăng trưởng: θ(n³)
+
+Bài 2
+for (int i = 0; i < n * n; i++)
+    for (int j = i + 1; j < n * n; j++)
+        for (int k = 1; k <= n * n; k = k * 2)
+            op();
+Số lần gọi op(): ~n⁴log₂(n)
+
+Bài 3
+Biểu thức mô tả đúng hàm f(n) = 2n² + 2n + 6log₂n
+O(n²), O(n³), Ω(n²), Ω(log n), Ω(n)
+
+Bài 4
+Một đối tượng BST chính:
+- Object header: 16 bytes.
+- Tham chiếu root: 8 bytes.
+- Biến n: 4 bytes.
+- Padding: 4 bytes.
+=> Tổng 32 bytes
+Mỗi đối tượng Node:
+- Object header: 16 bytes.
+- -Tham chiếu key: 8 bytes.
+- Tham chiếu value: 8 bytes.
+- -Tham chiếu parent: 8 bytes.
+- Tham chiếu left: 8 bytes.
+- Tham chiếu right: 8 bytes.
+- Biến nguyên count: 4 bytes.
+- Padding: 4 bytes.
+=> Tổng 64 bytes
+=> n Node - 64n bytes
+Tất cả bộ nhớ ~64n bytes
+
+Bài 5
+for (int i = 1; i <= n; i++)
+    for (int j = n; j >= i; j--)
+        for (int k = 1; k <= n; k = k + n/100)
+            System.out.println("hello");
+Số từ 'hello' được in ra: ~50n²
+
+Bài 6
+Biểu thức mô tả đúng về hàm nlog²n + 3n√(n) - 5n: θ(nlog²(n))

@@ -1,0 +1,49 @@
+Bài 1
+public class Main {
+    public static void main(String[] args) {
+        int n = 4;
+        int[] leader = new int[n];
+        for (int i = 0; i < n; i++) {
+            leader[i] = i;
+        }
+        System.out.println("Mảng ban đầu: [0, 1, 2, 3]");
+        union(leader, 1, 2);
+        union(leader, 1, 0);
+        System.out.println("find(1) = " + leader[1]);
+        System.out.println("find(2) = " + leader[2]);
+        System.out.println("find(1) = find(2): " + (leader[1] == leader[2]));
+    }
+    public static void union(int[] leader, int p, int q) {
+        for (int i = 0; i < leader.length; i++) {
+            if (leader[i] == leader[p]) {
+                leader[i] = leader[q];
+            }
+        }
+    }
+}
+
+Phần tử 1 và 2 thuộc cùng 1 tập hợp nhưng khi chạy code trả về false
+
+Bài 2
+a) cấu trúc dữ liệu thu được có 1 thành phần liên thông
+b) số lần cập nhật mảng n(n-1)/2
+c) số lần truy cập mảng o(n)
+d) thao tác find thực hiện 1 lần truy cập mảng
+
+Bài 3
+(0, 4): cùng cây
+(2, 3): cùng cây
+(4, 0): cùng cây
+(4, 5): cùng cây
+(5, 0): cùng cây
+(5, 7): cùng cây
+(6, 4): cùng cây
+(8, 9): cùng cây
+
+không cặp nào là tham số của lệnh union(p,q) gần nhất
+
+Bài 4
+parent[8] có thể nhận giá trị 0, 4
+
+Bài 5
+Không thể là biểu diễn parent-link của một cấu trúc dữ liệu weighted quick union

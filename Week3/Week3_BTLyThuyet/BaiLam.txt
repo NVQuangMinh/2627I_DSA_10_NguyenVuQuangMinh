@@ -1,0 +1,18 @@
+(a) Thao tác thực hiện lần lượt:
+enqueue(0) => Queue: [0]
+enqueue(1) => Queue: [0, 1]
+dequeue() => In lần 1: 0
+enqueue(2) => Queue: [1, 2]
+enqueue(3) => Queue: [1, 2, 3]
+dequeue() => In lần 2: 2 3
+enqueue(4) => Queue: [2, 3, 4]
+enqueue(5) => Queue: [2, 3, 4, 5]
+dequeue() => In lần 3: 3 4 5
+enqueue(6) => Queue: [3, 4, 5, 6]
+enqueue(7) => Queue: [3, 4, 5, 6, 7]
+dequeue() => In lần 4: 4 5 6 7
+Kết quả in ra: 1 2 3 3 4 5 4 5 6 7
+
+(b) Thao tác enqueue của self-printing queue chứa n phần tử có thời gian chạy trong trường hợp tồi nhất là loại θ(n)
+
+(c) Thời gian chạy trung bình θ(1)

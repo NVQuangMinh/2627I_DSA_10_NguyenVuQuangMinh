@@ -3,11 +3,21 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/2627I_DSA_10_NguyenVuQuangMinh.iml" filepath="$PROJECT_DIR$/.idea/2627I_DSA_10_NguyenVuQuangMinh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week3/BaiTapVeNha/BTLapTrinh/BTLapTrinh.iml" filepath="$PROJECT_DIR$/Week3/BaiTapVeNha/BTLapTrinh/BTLapTrinh.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week2/BTLyThuyet/BTLyThuyet.iml" filepath="$PROJECT_DIR$/Week2/BTLyThuyet/BTLyThuyet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week3/BTVN/BTVN.iml" filepath="$PROJECT_DIR$/Week3/BTVN/BTVN.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week2/DoPhucTapThuatToan/Bai1_4_5/Bai1_4_5.iml" filepath="$PROJECT_DIR$/Week2/DoPhucTapThuatToan/Bai1_4_5/Bai1_4_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week3/BaiTapVeNha/BaiTapVeNha.iml" filepath="$PROJECT_DIR$/Week3/BaiTapVeNha/BaiTapVeNha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week3/BaiTapVeNha/BTLapTrinh/BalancedBrackets/BalancedBrackets.iml" filepath="$PROJECT_DIR$/Week3/BaiTapVeNha/BTLapTrinh/BalancedBrackets/BalancedBrackets.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week2/DoPhucTapThuatToan/DoPhucTapThuatToan.iml" filepath="$PROJECT_DIR$/Week2/DoPhucTapThuatToan/DoPhucTapThuatToan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week3/BaiTapVeNha/BTLapTrinh/EqualStacks/EqualStacks.iml" filepath="$PROJECT_DIR$/Week3/BaiTapVeNha/BTLapTrinh/EqualStacks/EqualStacks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week3/BaiTapVeNha/BTLapTrinh/QueueUsingTwoStacks/QueueUsingTwoStacks.iml" filepath="$PROJECT_DIR$/Week3/BaiTapVeNha/BTLapTrinh/QueueUsingTwoStacks/QueueUsingTwoStacks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week3/BaiTapVeNha/BTLapTrinh/SimpleTextEditor/SimpleTextEditor.iml" filepath="$PROJECT_DIR$/Week3/BaiTapVeNha/BTLapTrinh/SimpleTextEditor/SimpleTextEditor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week3/TaiLop/TaiLop.iml" filepath="$PROJECT_DIR$/Week3/TaiLop/TaiLop.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week1/Week1.iml" filepath="$PROJECT_DIR$/Week1/Week1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week2/Week2.iml" filepath="$PROJECT_DIR$/Week2/Week2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week3/Week3.iml" filepath="$PROJECT_DIR$/Week3/Week3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week3/Week3_BTLyThuyet/Week3_BTLyThuyet.iml" filepath="$PROJECT_DIR$/Week3/Week3_BTLyThuyet/Week3_BTLyThuyet.iml" />
     </modules>
   </component>
 </project>
