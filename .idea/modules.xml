@@ -5,12 +5,18 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/2627I_DSA_10_NguyenVuQuangMinh.iml" filepath="$PROJECT_DIR$/.idea/2627I_DSA_10_NguyenVuQuangMinh.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week3/BaiTapVeNha/BTLapTrinh/BTLapTrinh.iml" filepath="$PROJECT_DIR$/Week3/BaiTapVeNha/BTLapTrinh/BTLapTrinh.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week2/BTLyThuyet/BTLyThuyet.iml" filepath="$PROJECT_DIR$/Week2/BTLyThuyet/BTLyThuyet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week4/BTTaiLop/BTTaiLop.iml" filepath="$PROJECT_DIR$/Week4/BTTaiLop/BTTaiLop.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week3/BTVN/BTVN.iml" filepath="$PROJECT_DIR$/Week3/BTVN/BTVN.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week2/DoPhucTapThuatToan/Bai1_4_5/Bai1_4_5.iml" filepath="$PROJECT_DIR$/Week2/DoPhucTapThuatToan/Bai1_4_5/Bai1_4_5.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week3/BaiTapVeNha/BaiTapVeNha.iml" filepath="$PROJECT_DIR$/Week3/BaiTapVeNha/BaiTapVeNha.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week3/BaiTapVeNha/BTLapTrinh/BalancedBrackets/BalancedBrackets.iml" filepath="$PROJECT_DIR$/Week3/BaiTapVeNha/BTLapTrinh/BalancedBrackets/BalancedBrackets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week4/Week4_BaiTapVeNha/Week4_BTLapTrinh/CorrectnessInvariant/CorrectnessInvariant.iml" filepath="$PROJECT_DIR$/Week4/Week4_BaiTapVeNha/Week4_BTLapTrinh/CorrectnessInvariant/CorrectnessInvariant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week4/Week4_BaiTapVeNha/Week4_BTLapTrinh/CountingSort1/CountingSort1.iml" filepath="$PROJECT_DIR$/Week4/Week4_BaiTapVeNha/Week4_BTLapTrinh/CountingSort1/CountingSort1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week2/DoPhucTapThuatToan/DoPhucTapThuatToan.iml" filepath="$PROJECT_DIR$/Week2/DoPhucTapThuatToan/DoPhucTapThuatToan.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week3/BaiTapVeNha/BTLapTrinh/EqualStacks/EqualStacks.iml" filepath="$PROJECT_DIR$/Week3/BaiTapVeNha/BTLapTrinh/EqualStacks/EqualStacks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week4/Week4_BaiTapVeNha/Week4_BTLapTrinh/InsertionSort-Part1/InsertionSort-Part1.iml" filepath="$PROJECT_DIR$/Week4/Week4_BaiTapVeNha/Week4_BTLapTrinh/InsertionSort-Part1/InsertionSort-Part1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week4/Week4_BaiTapVeNha/Week4_BTLapTrinh/InsertionSort-Part2/InsertionSort-Part2.iml" filepath="$PROJECT_DIR$/Week4/Week4_BaiTapVeNha/Week4_BTLapTrinh/InsertionSort-Part2/InsertionSort-Part2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week4/Week4_BaiTapVeNha/Week4_BTLapTrinh/JavaSort/JavaSort.iml" filepath="$PROJECT_DIR$/Week4/Week4_BaiTapVeNha/Week4_BTLapTrinh/JavaSort/JavaSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week3/BaiTapVeNha/BTLapTrinh/QueueUsingTwoStacks/QueueUsingTwoStacks.iml" filepath="$PROJECT_DIR$/Week3/BaiTapVeNha/BTLapTrinh/QueueUsingTwoStacks/QueueUsingTwoStacks.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week3/BaiTapVeNha/BTLapTrinh/SimpleTextEditor/SimpleTextEditor.iml" filepath="$PROJECT_DIR$/Week3/BaiTapVeNha/BTLapTrinh/SimpleTextEditor/SimpleTextEditor.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week3/TaiLop/TaiLop.iml" filepath="$PROJECT_DIR$/Week3/TaiLop/TaiLop.iml" />
@@ -18,6 +24,9 @@
       <module fileurl="file://$PROJECT_DIR$/Week2/Week2.iml" filepath="$PROJECT_DIR$/Week2/Week2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week3/Week3.iml" filepath="$PROJECT_DIR$/Week3/Week3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week3/Week3_BTLyThuyet/Week3_BTLyThuyet.iml" filepath="$PROJECT_DIR$/Week3/Week3_BTLyThuyet/Week3_BTLyThuyet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week4/Week4.iml" filepath="$PROJECT_DIR$/Week4/Week4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week4/Week4_BaiTapVeNha/Week4_BTLapTrinh/Week4_BTLapTrinh.iml" filepath="$PROJECT_DIR$/Week4/Week4_BaiTapVeNha/Week4_BTLapTrinh/Week4_BTLapTrinh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week4/Week4_BaiTapVeNha/Week4_BaiTapVeNha.iml" filepath="$PROJECT_DIR$/Week4/Week4_BaiTapVeNha/Week4_BaiTapVeNha.iml" />
     </modules>
   </component>
 </project>
