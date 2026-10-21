@@ -14,10 +14,14 @@
       <module fileurl="file://$PROJECT_DIR$/Week4/Week4_BaiTapVeNha/Week4_BTLapTrinh/CountingSort1/CountingSort1.iml" filepath="$PROJECT_DIR$/Week4/Week4_BaiTapVeNha/Week4_BTLapTrinh/CountingSort1/CountingSort1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week2/DoPhucTapThuatToan/DoPhucTapThuatToan.iml" filepath="$PROJECT_DIR$/Week2/DoPhucTapThuatToan/DoPhucTapThuatToan.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week3/BaiTapVeNha/BTLapTrinh/EqualStacks/EqualStacks.iml" filepath="$PROJECT_DIR$/Week3/BaiTapVeNha/BTLapTrinh/EqualStacks/EqualStacks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week6/Week6_BaiTapVeNha/Week6_BTLapTrinh/FindTheMedian/FindTheMedian.iml" filepath="$PROJECT_DIR$/Week6/Week6_BaiTapVeNha/Week6_BTLapTrinh/FindTheMedian/FindTheMedian.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week4/Week4_BaiTapVeNha/Week4_BTLapTrinh/InsertionSort-Part1/InsertionSort-Part1.iml" filepath="$PROJECT_DIR$/Week4/Week4_BaiTapVeNha/Week4_BTLapTrinh/InsertionSort-Part1/InsertionSort-Part1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week4/Week4_BaiTapVeNha/Week4_BTLapTrinh/InsertionSort-Part2/InsertionSort-Part2.iml" filepath="$PROJECT_DIR$/Week4/Week4_BaiTapVeNha/Week4_BTLapTrinh/InsertionSort-Part2/InsertionSort-Part2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week6/Week6_BaiTapVeNha/Week6_BTLapTrinh/IntroToTutorialChallenges/IntroToTutorialChallenges.iml" filepath="$PROJECT_DIR$/Week6/Week6_BaiTapVeNha/Week6_BTLapTrinh/IntroToTutorialChallenges/IntroToTutorialChallenges.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week4/Week4_BaiTapVeNha/Week4_BTLapTrinh/JavaSort/JavaSort.iml" filepath="$PROJECT_DIR$/Week4/Week4_BaiTapVeNha/Week4_BTLapTrinh/JavaSort/JavaSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week3/BaiTapVeNha/BTLapTrinh/QueueUsingTwoStacks/QueueUsingTwoStacks.iml" filepath="$PROJECT_DIR$/Week3/BaiTapVeNha/BTLapTrinh/QueueUsingTwoStacks/QueueUsingTwoStacks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week6/Week6_BaiTapVeNha/Week6_BTLapTrinh/QuickSort1_Partition/QuickSort1_Partition.iml" filepath="$PROJECT_DIR$/Week6/Week6_BaiTapVeNha/Week6_BTLapTrinh/QuickSort1_Partition/QuickSort1_Partition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week6/Week6_BaiTapVeNha/Week6_BTLapTrinh/QuickSort_In-place/QuickSort_In-place.iml" filepath="$PROJECT_DIR$/Week6/Week6_BaiTapVeNha/Week6_BTLapTrinh/QuickSort_In-place/QuickSort_In-place.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week3/BaiTapVeNha/BTLapTrinh/SimpleTextEditor/SimpleTextEditor.iml" filepath="$PROJECT_DIR$/Week3/BaiTapVeNha/BTLapTrinh/SimpleTextEditor/SimpleTextEditor.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week3/TaiLop/TaiLop.iml" filepath="$PROJECT_DIR$/Week3/TaiLop/TaiLop.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week1/Week1.iml" filepath="$PROJECT_DIR$/Week1/Week1.iml" />
@@ -27,6 +31,9 @@
       <module fileurl="file://$PROJECT_DIR$/Week4/Week4.iml" filepath="$PROJECT_DIR$/Week4/Week4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week4/Week4_BaiTapVeNha/Week4_BTLapTrinh/Week4_BTLapTrinh.iml" filepath="$PROJECT_DIR$/Week4/Week4_BaiTapVeNha/Week4_BTLapTrinh/Week4_BTLapTrinh.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week4/Week4_BaiTapVeNha/Week4_BaiTapVeNha.iml" filepath="$PROJECT_DIR$/Week4/Week4_BaiTapVeNha/Week4_BaiTapVeNha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week6/Week6.iml" filepath="$PROJECT_DIR$/Week6/Week6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week6/Week6_BaiTapVeNha/Week6_BTLapTrinh/Week6_BTLapTrinh.iml" filepath="$PROJECT_DIR$/Week6/Week6_BaiTapVeNha/Week6_BTLapTrinh/Week6_BTLapTrinh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week6/Week6_BaiTapVeNha/Week6_BaiTapVeNha.iml" filepath="$PROJECT_DIR$/Week6/Week6_BaiTapVeNha/Week6_BaiTapVeNha.iml" />
     </modules>
   </component>
 </project>
